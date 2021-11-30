@@ -1,3 +1,5 @@
+## Please go ahead and check the project at https://nft-starter-project.vikingpr.repl.co deplyed on Rinkeby testnet
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
